@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.895747bef92a5accd6eb167d5086d5d3.js"
+  "/the-brewkit/precache-manifest.931eeaea52a1faf219852b85d88fa6cd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "the-brewer"});

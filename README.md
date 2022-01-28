@@ -1,4 +1,6 @@
-# the-brewer
+# the-brewkit
+
+Visit the Brewkit https://pduthoit.github.io/the-brewkit/
 
 ## Project setup
 ```
